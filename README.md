@@ -1,1 +1,2 @@
-# demo-repo
+# DEMO
+Life is amazing with git
